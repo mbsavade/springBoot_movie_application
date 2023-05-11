@@ -1,2 +1,3 @@
 @RestController -- annotation lets the framework know that it is rest api controller not a normal class.
 @GetMapping -- lets the framework know that this method is get API.
+@Document -- lets the framework know that this class represent each document in movies collection.
